@@ -1,0 +1,22 @@
+.list-each-thumbnail {
+  margin-right: 16px;
+  margin-left: 16px;
+}
+
+.button-thumbnail {
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  outline: none;
+  cursor: pointer;
+}
+
+.thumbnail-image {
+  height: 60px;
+  width: 60px;
+  opacity: 0.5;
+}
+
+.buttonBtn {
+  opacity: 1;
+}

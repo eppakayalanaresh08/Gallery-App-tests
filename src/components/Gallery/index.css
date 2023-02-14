@@ -1,0 +1,41 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container-images {
+  display: flex;
+  flex-direction: column;
+  width: 85%;
+  margin-top: 34px;
+  margin-bottom: 34px;
+  max-width: 1150px;
+}
+
+.image-Url {
+  border-radius: 18px;
+}
+
+.heading-Photography {
+  color: #1e293b;
+  font-size: 23px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-top: 24px;
+}
+
+.description-Photography {
+  color: #64748b;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.list-images {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  list-style-type: none;
+  padding: 0px;
+}
